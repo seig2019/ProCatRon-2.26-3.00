@@ -1,0 +1,8 @@
+the Folder cut <file <C/Windows>> 
+
+and open Upd File Commd
+
+copy the files Contral IP and Contral UI
+
+ 
+cpy code : <Fin<10010001001<Upd:Fun(01000<Tin|N/F|>):>>> in Contral Ui
